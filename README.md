@@ -11,6 +11,5 @@ Using Oculus headset + controllers
 - On left controller:
 	- Hold grip to aim laser
 	- Release grip to teleport
-
 - On right controller:
 	- Aim gun and use grip to shoot
